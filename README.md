@@ -12,7 +12,7 @@
 ## 🚀 Quick Install
 
 ```bash
-pip install passforge
+pip install git+https://github.com/MochErik/passforge.git
 ```
 
 ---
